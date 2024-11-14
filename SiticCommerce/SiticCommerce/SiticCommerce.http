@@ -1,0 +1,6 @@
+@SiticCommerce_HostAddress = http://localhost:5027
+
+GET {{SiticCommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
